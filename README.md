@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou a Cristina Manganotti! 👋
 
-<!--
-**cristinamanganotti/cristinamanganotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Graduando em **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul  
+ 🎯 Foco em **Desenvolvimento Back-End** e **Inteligência Artificial (LLMs)**  
+ 📍 São Paulo, Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre Mim
+* 🎓 Estudante de ADS e do programa **CS50 (Harvard)**.
+* 👩‍💻 Apaixonada por lógica de programação, resolução de problemas e pelo ecossistema **Python**.
+* 🤱 Mãe e entusiasta do aprendizado contínuo e da tecnologia como agente de transformação.
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+* **Linguagens:** Python, HTML5, CSS3, SQL
+* **Conceitos:** Lógica de Programação, Algoritmos, Versionamento de Código
+* **Ferramentas:** Git, GitHub, VS Code
+
+---
+
+### 📌 Repositórios em Destaque
+* 🐍 **[Algoritmos e Exercícios em Python](https://github.com/cristinamanganotti/Cruzeiro-do-Sul):** Exercícios de lógica, matemática e conversão de unidades desenvolvidos na faculdade.
+* 🌐 **[Exercícios HTML e CSS](https://github.com/cristinamanganotti/exercicios-html-css):** Práticas de estruturação e estilização web.
