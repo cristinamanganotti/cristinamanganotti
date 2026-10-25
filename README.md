@@ -21,5 +21,6 @@
 ---
 
 ### 📌 Repositórios em Destaque
+* ⚡ **[Consumo de Energia Elétrica](https://cristinamanganotti.github.io/consumo-claro/):** Site de comparação do consumo de energia elétrica.
 * 🐍 **[Algoritmos e Exercícios em Python](https://github.com/cristinamanganotti/Cruzeiro-do-Sul):** Exercícios de lógica, matemática e conversão de unidades desenvolvidos na faculdade.
 * 🌐 **[Exercícios HTML e CSS](https://github.com/cristinamanganotti/exercicios-html-css):** Práticas de estruturação e estilização web.
