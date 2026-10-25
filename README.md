@@ -1,20 +1,20 @@
 # Olá, eu sou a Cristina Manganotti! 👋
 
  Graduando em **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul  
- 🎯 Foco em **Desenvolvimento Back-End** e **Inteligência Artificial (LLMs)**  
+ 🎯 Foco em **Desenvolvimento Front-End e Back-End**  
  📍 São Paulo, Brasil  
 
 ---
 
 ### 🚀 Sobre Mim
 * 🎓 Estudante de ADS e do programa **CS50 (Harvard)**.
-* 👩‍💻 Apaixonada por lógica de programação, resolução de problemas e pelo ecossistema **Python**.
+* 👩‍💻 Apaixonada por lógica de programação, resolução de problemas.
 * 🤱 Mãe e entusiasta do aprendizado contínuo e da tecnologia como agente de transformação.
 
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
-* **Linguagens:** Python, HTML5, CSS3, SQL
+* **Linguagens:** Python, HTML5, CSS3 e JavaScript
 * **Conceitos:** Lógica de Programação, Algoritmos, Versionamento de Código
 * **Ferramentas:** Git, GitHub, VS Code
 
